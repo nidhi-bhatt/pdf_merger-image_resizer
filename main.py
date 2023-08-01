@@ -43,7 +43,7 @@ def image_resizer():
 
 
 root = tk.Tk()
-root.title("Welcome!")
+root.title("Welcome to MorphMerge!")
 root.configure(bg="lightgray")
 
 label = tk.Label(
